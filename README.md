@@ -1,0 +1,2 @@
+# My_First_Project_Andrej_Vidinevic
+Praktinis_Darbas_Nr1
